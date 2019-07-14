@@ -50,7 +50,7 @@ top: true
 # Miscellaneous
 baidu_analytics: false
 google_analytics: 'UA-81718430-1'
-favicon: /atom.ico
+favicon: /favicon.ico
 
 #你的头像url
 avatar: '/assets/avatar.gif'
